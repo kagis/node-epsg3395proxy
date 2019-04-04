@@ -1,0 +1,33 @@
+{
+  "name": "node-epsg3395proxy",
+  "version": "1.0.0",
+  "description": "Proxy EPSG-3395 tiles and reproject them to ESPG-3857",
+  "main": "index.js",
+  "dependencies": {
+    "jpeg-js": "^0.3.4",
+    "node-fetch": "^2.3.0",
+    "pngjs": "^3.4.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagis/node-epsg3395proxy.git"
+  },
+  "keywords": [
+    "yandex",
+    "yandexmap",
+    "epsg3395",
+    "3395"
+  ],
+  "author": "exe-dealer@yandex.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kagis/node-epsg3395proxy/issues"
+  },
+  "homepage": "https://github.com/kagis/node-epsg3395proxy#readme"
+}
