@@ -1,5 +1,5 @@
 {
-  "name": "node-epsg3395proxy",
+  "name": "epsg3395proxy",
   "version": "1.0.0",
   "description": "Proxy EPSG-3395 tiles and reproject them to ESPG-3857",
   "main": "index.js",
